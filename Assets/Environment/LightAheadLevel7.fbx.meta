@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: ccea7ddfdd9707e469a7b653a772cf2d
+timeCreated: 1455565937
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube113_21
+    100002: Cube29
+    100004: Cube30
+    100006: Cube31
+    100008: Cube32
+    100010: Cube33
+    100012: Cube34
+    100014: Cube41
+    100016: Cube42
+    100018: Cube54
+    100020: //RootNode
+    100022: Sphere29_917
+    100024: Sphere30_918
+    100026: Sphere31_919
+    100028: Sphere32_920
+    100030: Sphere53
+    100032: Sphere54
+    100034: Sphere55
+    100036: Sphere56
+    400000: Cube113_21
+    400002: Cube29
+    400004: Cube30
+    400006: Cube31
+    400008: Cube32
+    400010: Cube33
+    400012: Cube34
+    400014: Cube41
+    400016: Cube42
+    400018: Cube54
+    400020: //RootNode
+    400022: Sphere29_917
+    400024: Sphere30_918
+    400026: Sphere31_919
+    400028: Sphere32_920
+    400030: Sphere53
+    400032: Sphere54
+    400034: Sphere55
+    400036: Sphere56
+    2300000: Cube113_21
+    2300002: Cube29
+    2300004: Cube30
+    2300006: Cube31
+    2300008: Cube32
+    2300010: Cube33
+    2300012: Cube34
+    2300014: Cube41
+    2300016: Cube42
+    2300018: Cube54
+    2300020: Sphere29_917
+    2300022: Sphere30_918
+    2300024: Sphere31_919
+    2300026: Sphere32_920
+    2300028: Sphere53
+    2300030: Sphere54
+    2300032: Sphere55
+    2300034: Sphere56
+    3300000: Cube113_21
+    3300002: Cube29
+    3300004: Cube30
+    3300006: Cube31
+    3300008: Cube32
+    3300010: Cube33
+    3300012: Cube34
+    3300014: Cube41
+    3300016: Cube42
+    3300018: Cube54
+    3300020: Sphere29_917
+    3300022: Sphere30_918
+    3300024: Sphere31_919
+    3300026: Sphere32_920
+    3300028: Sphere53
+    3300030: Sphere54
+    3300032: Sphere55
+    3300034: Sphere56
+    4300000: Cube29
+    4300002: Cube30
+    4300004: Cube31
+    4300006: Cube32
+    4300008: Cube33
+    4300010: Cube34
+    4300012: Cube41
+    4300014: Cube42
+    4300016: Cube54
+    4300018: Sphere29_917
+    4300020: Sphere30_918
+    4300022: Sphere31_919
+    4300024: Sphere32_920
+    4300026: Sphere53
+    4300028: Sphere54
+    4300030: Sphere55
+    4300032: Sphere56
+    4300034: Cube113_21
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

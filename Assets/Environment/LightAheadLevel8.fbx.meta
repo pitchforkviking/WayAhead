@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: d7fe904ef3028f34f9324451c932182c
+timeCreated: 1455565938
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube114
+    100002: Cube43
+    100004: Cube44
+    100006: Cube45
+    100008: Cube46
+    100010: Cube47
+    100012: Cube48
+    100014: Cube49
+    100016: Cube50
+    100018: Cube51
+    100020: Cube52
+    100022: Cube53
+    100024: //RootNode
+    100026: Sphere25
+    100028: Sphere26
+    100030: Sphere27
+    100032: Sphere28
+    100034: Sphere33
+    100036: Sphere34
+    100038: Sphere35
+    100040: Sphere36
+    400000: Cube114
+    400002: Cube43
+    400004: Cube44
+    400006: Cube45
+    400008: Cube46
+    400010: Cube47
+    400012: Cube48
+    400014: Cube49
+    400016: Cube50
+    400018: Cube51
+    400020: Cube52
+    400022: Cube53
+    400024: //RootNode
+    400026: Sphere25
+    400028: Sphere26
+    400030: Sphere27
+    400032: Sphere28
+    400034: Sphere33
+    400036: Sphere34
+    400038: Sphere35
+    400040: Sphere36
+    2300000: Cube114
+    2300002: Cube43
+    2300004: Cube44
+    2300006: Cube45
+    2300008: Cube46
+    2300010: Cube47
+    2300012: Cube48
+    2300014: Cube49
+    2300016: Cube50
+    2300018: Cube51
+    2300020: Cube52
+    2300022: Cube53
+    2300024: Sphere25
+    2300026: Sphere26
+    2300028: Sphere27
+    2300030: Sphere28
+    2300032: Sphere33
+    2300034: Sphere34
+    2300036: Sphere35
+    2300038: Sphere36
+    3300000: Cube114
+    3300002: Cube43
+    3300004: Cube44
+    3300006: Cube45
+    3300008: Cube46
+    3300010: Cube47
+    3300012: Cube48
+    3300014: Cube49
+    3300016: Cube50
+    3300018: Cube51
+    3300020: Cube52
+    3300022: Cube53
+    3300024: Sphere25
+    3300026: Sphere26
+    3300028: Sphere27
+    3300030: Sphere28
+    3300032: Sphere33
+    3300034: Sphere34
+    3300036: Sphere35
+    3300038: Sphere36
+    4300000: Cube43
+    4300002: Cube44
+    4300004: Cube45
+    4300006: Cube46
+    4300008: Cube47
+    4300010: Cube48
+    4300012: Cube49
+    4300014: Cube50
+    4300016: Cube51
+    4300018: Cube52
+    4300020: Cube53
+    4300022: Sphere25
+    4300024: Sphere26
+    4300026: Sphere27
+    4300028: Sphere28
+    4300030: Sphere33
+    4300032: Sphere34
+    4300034: Sphere35
+    4300036: Sphere36
+    4300038: Cube114
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
